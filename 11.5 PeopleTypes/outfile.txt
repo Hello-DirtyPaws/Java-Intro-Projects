@@ -1,0 +1,4 @@
+The total number of infants present in the fair: 7
+The total number of children present in the fair: 18
+The total number of teenagers present in the fair: 17
+The total number of adults present in the fair: 7

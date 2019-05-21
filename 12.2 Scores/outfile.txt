@@ -1,0 +1,25 @@
+Names                Scores              
+Bob                   78                  
+Jane                  56                  
+Andrew                98                  
+Allison               74                  
+Marrisa               58                  
+Jeff                  83                  
+Beverly               66                  
+Steve                 87                  
+Jill                  94                  
+Stan                  61                  
+
+a. The class average is 75.5
+
+b. Students with score LOWER than the average score is as follows:
+   Jane, your score is below class average.
+   Allison, your score is below class average.
+   Marrisa, your score is below class average.
+   Beverly, your score is below class average.
+   Stan, your score is below class average.
+
+c. The highest score is 98.
+   And the student/s that/those received the highest score is:
+   Andrew
+

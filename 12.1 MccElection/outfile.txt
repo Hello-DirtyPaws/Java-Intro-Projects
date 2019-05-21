@@ -1,0 +1,8 @@
+Candidate       Votes Received    % of Total Votes
+Johnson              5000                 25.91                
+Miller               4000                 20.73                
+Duffy                6000                 31.09                
+Robinson             2500                 12.95                
+Ashtony              1800                 9.33                 
+Total                19300               
+The Winner of the MCC Election is Duffy.
