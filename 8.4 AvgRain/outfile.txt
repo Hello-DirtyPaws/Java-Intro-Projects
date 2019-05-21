@@ -1,0 +1,3 @@
+The total months = 24
+The total rainfall = 87.0 inches.
+The average rainfall = 3.625 inches.
