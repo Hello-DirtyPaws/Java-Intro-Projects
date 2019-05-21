@@ -1,0 +1,2 @@
+The BMI of the person with 172.0 lbs. and 72.0 inches of height is 23.325 lbs./in².
+The person's bodytype is OPTIMAL.
